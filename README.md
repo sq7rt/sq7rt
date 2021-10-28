@@ -18,7 +18,6 @@
          </a>
          <a href="https://sq7rt.github.io/sq7rt_website/">
          <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
-         <script src="https://tryhackme.com/badge/166219"></script>
          </a>
 <br>
 <br>
@@ -31,6 +30,7 @@
 <br>
 <br>
 <br>
+<script src="https://tryhackme.com/badge/166219"></script>
 <br>
 <br>
 <br>
