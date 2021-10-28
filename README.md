@@ -30,7 +30,6 @@
 <br>
 <br>
 <br>
-<script src="https://tryhackme.com/badge/166219"></script>
 <br>
 <br>
 <br>
