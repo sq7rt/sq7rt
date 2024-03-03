@@ -26,13 +26,13 @@
 
 <br clear="both">
 
-<h1 align="center">Visiteurs<br>↧</h1>
+<img src="https://raw.githubusercontent.com/sq7rt/sq7rt/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sq7rt/sq7rt/output/snake.svg" alt="Snake animation" />
+<h1 align="center">Visiteurs<br>↧</h1>
 
 ###
 
