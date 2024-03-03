@@ -30,6 +30,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/sq7rt/sq7rt/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/sq7rt/count.svg?"  />
 </div>
